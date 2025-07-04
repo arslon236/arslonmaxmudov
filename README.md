@@ -14,7 +14,7 @@
 
   <!-- ORMs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/prisma/logo/main/prisma-logo.svg" title="Prisma" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/prisma/logo/main/prisma-logo.svg" title="Prisma" width="40" height="40" />
   <img src="https://avatars.githubusercontent.com/u/20165699?s=280&v=4" title="TypeORM" width="40" height="40"/>&nbsp;
 
   <!-- Databases -->
